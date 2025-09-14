@@ -1,5 +1,5 @@
 # Data
-C:\Users\vedpr\Downloads\swiggy_time_delivery_prediction\models
+/models/
 # Mac OS-specific storage files
 .DS_Store
 
@@ -189,3 +189,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /data
+"models/" 
